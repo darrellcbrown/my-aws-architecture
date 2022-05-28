@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T08:06:02.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.3" etag="6B9ovlC_wamg6OPIwgW-" type="github"><diagram id="sUSCoNnwa5Sb8x5ECSB1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-28T08:07:37.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="tp59ATItB_q73GfCMYqS" version="18.1.3" type="github">
+  <diagram id="sUSCoNnwa5Sb8x5ECSB1" name="Page-1">
+    <mxGraphModel dx="770" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gdfHBOVTihqtulvfM68C-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="680" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="gdfHBOVTihqtulvfM68C-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="gdfHBOVTihqtulvfM68C-1" source="gdfHBOVTihqtulvfM68C-2" target="gdfHBOVTihqtulvfM68C-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gdfHBOVTihqtulvfM68C-2" value="User" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="gdfHBOVTihqtulvfM68C-1">
+          <mxGeometry x="80" y="120" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="gdfHBOVTihqtulvfM68C-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="gdfHBOVTihqtulvfM68C-1" source="gdfHBOVTihqtulvfM68C-3" target="gdfHBOVTihqtulvfM68C-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gdfHBOVTihqtulvfM68C-3" value="STS Service" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sts_alternate;" vertex="1" parent="gdfHBOVTihqtulvfM68C-1">
+          <mxGeometry x="240" y="120" width="62" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="gdfHBOVTihqtulvfM68C-5" value="Temp creds" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.temporary_security_credential;" vertex="1" parent="gdfHBOVTihqtulvfM68C-1">
+          <mxGeometry x="400" y="120" width="77" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
